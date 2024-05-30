@@ -112,7 +112,7 @@ export const footerLinks = [
         title: "Get in touch",
         links: [
             { name: "customer@snefers.com", link: "mailto:customer@snefers.com" },
-            { name: "+919090202021", link: "tel:+8998211209" },
+            { name: "+919090XXXXXX", link: "tel:+89982XXXXX" },
         ],
     },
 ];
